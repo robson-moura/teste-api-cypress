@@ -1,0 +1,17 @@
+{
+  "name": "teste-api-sicredi-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@hapi/joi": "^17.1.1",
+    "cypress": "^4.4.0"
+  }
+}
